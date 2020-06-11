@@ -8,8 +8,8 @@
     port = 3001;
     # valency = 1; (default)
   },{
-   operator: "ilap",
-   addr: "51.79.141.170",
-   port: 9000,
+   operator = "ilap";
+   addr = "51.79.141.170";
+   port = 9000;
   }
 ]
